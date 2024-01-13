@@ -2,7 +2,7 @@
 name = "Online-Forever"
 version = "1.0.0"
 description = "A code that can make your discord account 24/7!"
-authors = ["SealedSaucer"]
+authors = [""]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.11"
